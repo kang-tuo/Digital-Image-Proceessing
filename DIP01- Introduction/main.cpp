@@ -19,7 +19,6 @@ int main(int argc, char** argv) {
 	// will contain path to input image (taken from argv[1])
 	string fname;
 	
-	
 	// check if image path was defined
 	if (argc != 2){
 	    cout << "Usage: dip1 <path_to_image>" << endl;
