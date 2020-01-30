@@ -33,3 +33,4 @@ class Dip1{
 		// test function
 		void test_doSomethingThatMyTutorIsGonnaLike(const Mat&, const Mat&);
 };
+
