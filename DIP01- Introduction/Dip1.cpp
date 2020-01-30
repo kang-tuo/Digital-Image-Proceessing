@@ -74,6 +74,7 @@ void Dip1::run(string fname){
 
 }
 
+
 // function loads input image and calls the processing functions
 // output is tested on "correctness" 
 /*
